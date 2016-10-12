@@ -6,12 +6,12 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Remove Yoast Microdata
+ * Plugin URI:        https://github.com/yuriy-vasilyev/remove-yoast-microdata/
  * Description:       The plugin removes JSON+LD Schema from the homepage.
  * Version:           1.0
  * Author:            Yuriy Vasilyev
  * Author URI:        http://yuriyvasilyev.me/
- * License:           GPL-2.0+
- * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
+ * License:           GPL-3.0
  */
 
 // If this file is called directly, abort.
